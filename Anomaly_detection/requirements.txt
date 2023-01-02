@@ -1,0 +1,17 @@
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+termcolor==1.1.0
+terminado==0.9.4
+testpath==0.4.4
+threadpoolctl==2.1.0
+tifffile==2020.9.3
+tornado==6.1
+traitlets==4.3.3
+typing-extensions==3.7.4.3
+urllib3==1.26.4
+wcwidth==0.2.5
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+wrapt==1.12.1
+zipp==3.4.1
