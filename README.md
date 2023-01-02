@@ -1,6 +1,6 @@
 # IDS2_X-Ray_Group3
 
-* In the Folders CodeBaseTimo and Models You can find different states of the PCA approache
+* In the Folders CodeBase and Models You can find different states of the PCA approache
 
 * Anomaly_detection contains the Approach with the skip connections (Auto-encoder)
 
