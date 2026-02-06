@@ -1,9 +1,11 @@
 # IDS2_X-Ray_Group3
 
-* In the Folders CodeBase and Models You can find different states of the PCA approache
+This repository contains group work for anomaly detection on X-ray images. It combines PCA-based exploration, an autoencoder pipeline, dataset preprocessing utilities, and saved experiment outputs.
 
-* Anomaly_detection contains the Approach with the skip connections (Auto-encoder)
-
-* Under Datasets/Datasetscrips, are the scripts we used to preprocess and split up our Dataset. We dind't uploade the images, they are in the scibo Directory, due to storage space and to not make the Images accessable to everyone.
-
-* In the Resultsfolders are Results of Preprocessing methods, some Heapmaps and the Auto-encoder approach.
+* `Anomaly_detection`: autoencoder-based anomaly detection framework, with its own README, requirements, GUI, and training utilities.
+* `CodeBase`: PCA exploration notebooks, raw scripts, plots, and summarized CSV outputs.
+* `Models`: PCA notebooks and scripts.
+* `Data`: dataset preprocessing/splitting scripts plus `train.csv` and `test.csv` split files.
+* `Experiments`: saved training runs (configs, weights, and history files).
+* `Results`: preprocessing results and visualization images.
+* `Ablage`: miscellaneous sample images used during experimentation.
